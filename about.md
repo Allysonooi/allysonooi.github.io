@@ -6,7 +6,6 @@ permalink: /about/
 
 This blog serves as a purpose for me to record things.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator)
+You can [**download**](https://github.com/dirkfabisch/mediator) the theme.
 
-[Jekyll](https://github.com/jekyll/jekyll)
+For Customization, refer to [**Jekyll**](https://github.com/jekyll/jekyll) 
